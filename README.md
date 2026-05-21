@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**itzadhi/itzadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Developer • App Builder • Full-Stack Learner
 
-Here are some ideas to get you started:
+Building desktop apps, web tools, and modern digital products.<br>
+Passionate about creating fast, clean, and useful software experiences.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily:`.nodejs`, `.rust`, `.tauri`, `.html`, `.react`, `.python`, `.mongodb`
+- 🖥️ Building cross-platform desktop apps using **Tauri**
+- 🚀 Interested in **full-stack development**, **desktop software**, **automation**, and **AI-powered tools**
+- 🛠️ Developing Windows applications and scalable web projects
+- 🌍 Exploring open-source technologies, startup ideas, and product design
+- 💬 Ask me about **React**, **Node.js**, **Rust**, **Tauri**, **Python**, or **windows app development**
+- 🎯 Focused on learning, building impactful projects, and improving every day
